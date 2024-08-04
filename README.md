@@ -1,14 +1,3 @@
----
-title: Twitter Sentiment Analysis
-emoji: ⚡
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-sdk_version: 4.37.2
-app_file: app.py
-pinned: false
-license: mit
----
 # Twitter Sentiment Analysis
 
 This project implements a sentiment analysis model to predict the sentiment (positive or negative) of tweets. An LSTM-based model has been trained on 1.6 million tweets.
@@ -35,8 +24,3 @@ This project implements a sentiment analysis model to predict the sentiment (pos
   - `tensorflow==2.15.0`
   - `nltk`
   - `gradio`
-
-
-
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
